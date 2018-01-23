@@ -6,5 +6,3 @@ git_source(:github) do |repo_name|
 end
 
 ruby '~> 2.4'
-
-gem 'action_cable_client', '~> 2.0', '>= 2.0.2'
