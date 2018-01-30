@@ -7,4 +7,5 @@ end
 
 ruby '~> 2.4'
 
+gem 'json'
 gem 'websocket-client-simple', '~> 0.3.0'

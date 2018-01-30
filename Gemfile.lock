@@ -2,6 +2,7 @@ GEM
   remote: https://rubygems.org/
   specs:
     event_emitter (0.2.6)
+    json (2.1.0)
     websocket (1.2.5)
     websocket-client-simple (0.3.0)
       event_emitter
@@ -11,6 +12,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  json
   websocket-client-simple (~> 0.3.0)
 
 RUBY VERSION
